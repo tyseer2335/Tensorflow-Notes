@@ -1,6 +1,6 @@
 <img src="logo.png" alt="TensorFlow Logo" width="100"/>
 
-# TensorFlow Notes
+# TensorFlow & Machine Learning Notes
 
 Welcome to my TensorFlow notes repository! Here, I've compiled my learning journey with [TensorFlow](https://www.tensorflow.org/), an open-source library for machine learning and artificial intelligence. 
 
