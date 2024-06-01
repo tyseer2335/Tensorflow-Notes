@@ -1,4 +1,4 @@
-<img src="logo.png" alt="TensorFlow Logo" width="200"/>
+<img src="logo.png" alt="TensorFlow Logo" width="140"/>
 
 # TensorFlow Notes
 
