@@ -1,4 +1,4 @@
-![TensorFlow Logo](logo.png)
+<img src="logo.png" alt="TensorFlow Logo" width="200"/>
 
 # TensorFlow Notes
 
